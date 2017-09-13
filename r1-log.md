@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Norman Allen II]
 
 The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Started working on freecodecamp exercises. Worked on the draft layout of the app, working on creating a text-field. https://www.freecodecamp.org/challenges/create-a-text-field
 
 ### R1D2

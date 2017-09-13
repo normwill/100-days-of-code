@@ -1,9 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 13, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+
+**Today's Progress**: Working through freecodecacmp and going over HTML5 and CSS. Becoming more comfortable with HTML than I was when I began my coding bootcamp the first week of August.
+https://www.freecodecamp.org/challenges/create-a-text-field
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
