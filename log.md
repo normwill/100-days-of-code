@@ -18,12 +18,11 @@ https://www.freecodecamp.org/challenges/create-a-text-field
 **Link(s) to work**: [](https://www.freecodecamp.org/challenges/override-class-declarations-by-styling-id-attributes)
 
 
-### Day 1: June 27, Monday
+### Day 3: September 15th, Friday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've gained a better understanding of Bootstrap and what it can do. Also of how efficient it is. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+https://www.freecodecamp.org/challenges/use-spans-for-inline-elements
