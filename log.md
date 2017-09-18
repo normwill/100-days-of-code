@@ -41,3 +41,6 @@ https://www.freecodecamp.org/challenges/create-bootstrap-wells
 **Today's Progress**: Started JQuery
 
 **Thoughts** Confused on the method to add classes and functions.
+
+**Link(s) to work** 
+https://www.freecodecamp.org/challenges/target-elements-by-id-using-jquery
