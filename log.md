@@ -28,7 +28,9 @@ https://www.freecodecamp.org/challenges/create-a-text-field
 https://www.freecodecamp.org/challenges/use-spans-for-inline-elements
 
 ### Day 4: September 15, 2017
+
 **Today's Progress**: Worked more on Bootstrap.
+
 **Thoughts** I am becoming excited on the countless things that can be done with Bootstrap. It helps projects to appear as more appealing.
 
 **Link(s) to work** 
