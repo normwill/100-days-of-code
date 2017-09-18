@@ -35,3 +35,9 @@ https://www.freecodecamp.org/challenges/use-spans-for-inline-elements
 
 **Link(s) to work** 
 https://www.freecodecamp.org/challenges/create-bootstrap-wells
+
+### Day 5: September 16, 2017
+
+**Today's Progress**: Started JQuery
+
+**Thoughts** Confused on the method to add classes and functions.
