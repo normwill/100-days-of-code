@@ -52,11 +52,4 @@ https://www.freecodecamp.org/challenges/target-elements-by-id-using-jquery
 **Thoughts** Becoming better with JQuery functions such as, addClass(), removeClass(), and appendTo().
 
 **Link(s) to work** 
-### Day 5: September 16, 2017
-
-**Today's Progress**: Started JQuery
-
-**Thoughts** Confused on the method to add classes and functions.
-
-**Link(s) to work** 
-https://www.freecodecamp.org/challenges/target-elements-by-id-using-jquery
+https://www.freecodecamp.org/challenges/target-the-parent-of-an-element-using-jquery
