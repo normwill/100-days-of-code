@@ -44,3 +44,19 @@ https://www.freecodecamp.org/challenges/create-bootstrap-wells
 
 **Link(s) to work** 
 https://www.freecodecamp.org/challenges/target-elements-by-id-using-jquery
+
+### Day 6: September 18, 2017
+
+**Today's Progress**: Continued JQuery
+
+**Thoughts** Becoming better with JQuery functions such as, addClass(), removeClass(), and appendTo().
+
+**Link(s) to work** 
+### Day 5: September 16, 2017
+
+**Today's Progress**: Started JQuery
+
+**Thoughts** Confused on the method to add classes and functions.
+
+**Link(s) to work** 
+https://www.freecodecamp.org/challenges/target-elements-by-id-using-jquery
