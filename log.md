@@ -53,3 +53,12 @@ https://www.freecodecamp.org/challenges/target-elements-by-id-using-jquery
 
 **Link(s) to work** 
 https://www.freecodecamp.org/challenges/target-the-parent-of-an-element-using-jquery
+
+### Day 7: September 19, 2017
+
+**Today's Progress**: Continued and finished JQuery
+
+**Thoughts** Continued to become with JQuery functions such as, addClass(), removeClass(), and appendTo(). Excited for my first Front End Development Project
+
+**Link(s) to work***
+https://www.freecodecamp.org/challenges/build-a-tribute-page
