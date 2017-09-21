@@ -62,3 +62,12 @@ https://www.freecodecamp.org/challenges/target-the-parent-of-an-element-using-jq
 
 **Link(s) to work***
 https://www.freecodecamp.org/challenges/build-a-tribute-page
+
+### Day 8: September 20, 2017
+
+***Today's Progress***: Finished Tribute Page
+
+**Thoughts** Felt great to do my first project. Messed on a few things, but I am looking forward to improving.
+
+**Link(s) to work**
+https://codepen.io/__normz/full/WZxomm/
