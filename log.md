@@ -71,3 +71,12 @@ https://www.freecodecamp.org/challenges/build-a-tribute-page
 
 **Link(s) to work**
 https://codepen.io/__normz/full/WZxomm/
+
+### Day 9: September 22, 2017
+
+**Today's Progress** Started Portfolio**
+
+**Thoughts** Was struggling at first with my nav bar, but I realized that I was not using the right bootstrap for code pen. Still need to improve with Bootstrap
+
+**Link(s) to work**
+https://codepen.io/__normz/full/aLmKRb/
