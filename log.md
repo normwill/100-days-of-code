@@ -80,3 +80,30 @@ https://codepen.io/__normz/full/WZxomm/
 
 **Link(s) to work**
 https://codepen.io/__normz/full/aLmKRb/
+
+### Day 10: September 23, 2017
+
+**Today's Progress**Portfolio Continued**
+
+**Thoughts** Feel stuck with the process, but will continue to work and make changes
+
+### Day 11: September 24, 2017
+
+**Today's Progress** Portfolio Continued**
+
+**Thoughts** Decided to start over becasue my work was unoragnized pen. Still
+
+### Day 12: September 25, 2017
+
+**Today's Progress** Portfolio Continued**
+
+**Thoughts** Making some progress after starting over
+
+### Day 13: September 27, 2017
+
+**Today's Progress** Portfolio Continued**
+
+**Thoughts**  Almost finised my portfolio. I havent added any pictures, but will go back and add them as I complete projects. I have to add the scrollspy and then my portfolio will be complete.
+
+**Link(s) to work**
+https://codepen.io/__normz/pen/aLmKRb
