@@ -91,7 +91,7 @@ https://codepen.io/__normz/full/aLmKRb/
 
 **Today's Progress** Portfolio Continued**
 
-**Thoughts** Decided to start over becasue my work was unoragnized pen. Still
+**Thoughts** Decided to start over becasue my work was unorganized.
 
 ### Day 12: September 25, 2017
 
