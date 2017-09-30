@@ -107,3 +107,14 @@ https://codepen.io/__normz/full/aLmKRb/
 
 **Link(s) to work**
 https://codepen.io/__normz/pen/aLmKRb
+
+### Day 14: September 29, 2017 
+
+
+**Today's Progress**: Started Javascript
+https://www.freecodecamp.org/challenges/create-a-text-field
+
+**Thoughts:** Javascript is what I've been struggling with, so I'm anxious to get my hands dirty with it!
+
+*Link(s) to work**
+https://www.freecodecamp.org/challenges/finding-a-remainder-in-javascript
