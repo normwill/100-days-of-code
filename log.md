@@ -112,7 +112,7 @@ https://codepen.io/__normz/pen/aLmKRb
 
 
 **Today's Progress**: Started Javascript
-https://www.freecodecamp.org/challenges/create-a-text-field
+
 
 **Thoughts:** Javascript is what I've been struggling with, so I'm anxious to get my hands dirty with it!
 
