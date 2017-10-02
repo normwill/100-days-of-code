@@ -118,3 +118,12 @@ https://codepen.io/__normz/pen/aLmKRb
 
 *Link(s) to work**
 https://www.freecodecamp.org/challenges/finding-a-remainder-in-javascript
+
+### Day 15:  October 1, 2017 
+
+**Todays Progress** Javascript Continued
+
+**Thoughts** Struggling with using functions
+
+*Link(s) to work**
+https://www.freecodecamp.org/challenges/concatenating-strings-with-plus-operator
