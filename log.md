@@ -127,3 +127,14 @@ https://www.freecodecamp.org/challenges/finding-a-remainder-in-javascript
 
 *Link(s) to work**
 https://www.freecodecamp.org/challenges/concatenating-strings-with-plus-operator
+
+## Day 16: October 2, 2017 
+
+**Today's Progress**: Javascript Cont.
+
+**Thoughts:** Practice functions since I've been struggling with them, and also concatenating strings
+
+**Link(s) to work**
+https://www.freecodecamp.org/challenges/word-blanks
+
+
