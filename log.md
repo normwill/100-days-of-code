@@ -132,9 +132,18 @@ https://www.freecodecamp.org/challenges/concatenating-strings-with-plus-operator
 
 **Today's Progress**: Javascript Cont.
 
-**Thoughts:** Practice functions since I've been struggling with them, and also concatenating strings
+**Thoughts:** Practiced functions since I've been struggling with them, and also concatenating strings
 
 **Link(s) to work**
 https://www.freecodecamp.org/challenges/word-blanks
+
+### Day 17:  October 3, 2017
+
+**Todays Progress** Javascript Continued
+
+**Thoughts** Worked on mutli-dimensional arrays, and functions. Learning how to use functions such as pop() shift() unshift() push() etc. Also realizing it's not efficient to repeat code
+
+**Link(s) to work**
+https://www.freecodecamp.org/challenges/passing-values-to-functions-with-arguments
 
 
