@@ -146,6 +146,8 @@ https://www.freecodecamp.org/challenges/word-blanks
 **Link(s) to work**
 https://www.freecodecamp.org/challenges/passing-values-to-functions-with-arguments
 
+### Day 18:  October 4, 2017
+
 **Today's Progress** Javascript Continued
 
 **Thoughts** Felt as if I made a lot of progress today. In FCC, I went over writing resuable javascript with functions, passing values with arguments, global scope and functions, global vs local scope in functions, assignment with a returned function, and understanding boolean values. Also, I did activites where I would have to use funnctions and also if/else statements
