@@ -155,4 +155,11 @@ https://www.freecodecamp.org/challenges/passing-values-to-functions-with-argumen
 **Link(s) to work**
 https://www.freecodecamp.org/challenges/golf-code
 
+### Day 19:  October 6, 2017
 
+**Today's Progress** Javascript Continued
+
+**Thoughts** Learned a lot today. It was frustrating though when I was learning to grab values from objects. I guess with practice, I will become better right?
+
+**Link(s) to work**
+https://www.freecodecamp.org/challenges/accessing-nested-arrays
