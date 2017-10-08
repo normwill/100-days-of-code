@@ -163,3 +163,12 @@ https://www.freecodecamp.org/challenges/golf-code
 
 **Link(s) to work**
 https://www.freecodecamp.org/challenges/accessing-nested-arrays
+
+### Day 20:  October 7, 2017
+
+**Today's Progress** Javascript Continued
+
+**Thoughts** Struggling with for loops an functions. I understood using the while loop. However, the for loops inside the functions were confusing.
+
+**Link(s) to work**
+hhttps://www.freecodecamp.org/challenges/generate-random-fractions-with-javascript
