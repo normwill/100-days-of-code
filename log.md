@@ -168,7 +168,16 @@ https://www.freecodecamp.org/challenges/accessing-nested-arrays
 
 **Today's Progress** Javascript Continued
 
-**Thoughts** Struggling with for loops an functions. I understood using the while loop. However, the for loops inside the functions were confusing.
+**Thoughts** Struggling with for loops and functions. I understood using the while loop. However, the for loops inside the functions were confusing.
 
 **Link(s) to work**
 hhttps://www.freecodecamp.org/challenges/generate-random-fractions-with-javascript
+
+### Day 21:  October 8, 2017
+
+**Today's Progress** Javascript && Object Oriented Functional Programming
+
+**Thoughts** Getting more comfortable with javascript and expressions. However, still struggling with functions. Also worked on passing parameters to our Constructor
+
+**Link(s) to work**
+https://www.freecodecamp.org/challenges/make-unique-objects-by-passing-parameters-to-our-constructor
