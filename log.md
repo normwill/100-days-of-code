@@ -181,3 +181,12 @@ hhttps://www.freecodecamp.org/challenges/generate-random-fractions-with-javascri
 
 **Link(s) to work**
 https://www.freecodecamp.org/challenges/make-unique-objects-by-passing-parameters-to-our-constructor
+
+### Day 22:  October 9, 2017
+
+**Today's Progress** Javascript && Object Oriented Functional Programming
+
+**Thoughts** Worked on making object properties private, using the map function, condensing arrays with reduce, and filtering arrays with filter. I feel more comfortbale as I stated yesterday, but I am only in tutorials. I will do more work outside of tutorials to practice, so that I am not overwhelmed when I move onto the intermediate projects.
+
+**Link(s) to work**
+https://www.freecodecamp.org/challenges/filter-arrays-with-filter
